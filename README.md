@@ -8,7 +8,7 @@
 <div align="center">
   <p>Soy una desarrolladora web con pasión por el código limpio y el diseño intuitivo. Actualmente estoy enfocada en...</p>
   <br>
-  ![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=Pakita01&show_icons=true&theme=radical&hide_border=true&count_private=true)
+ 
 </div>
 
 ---
@@ -17,25 +17,16 @@
 
 <div align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,vscode,git,github" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,vscode,git,github" />
   </a>
 </div>
-
----
-
-### ✨ Proyectos Destacados
-
-(Aquí puedes añadir descripciones y enlaces a tus proyectos anclados, con imágenes o GIFs si quieres.)
 
 ---
 
 ### 📫 Contáctame
 
 <div align="center">
-  <a href="URL_A_TU_LINKEDIN">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="URL_A_TU_TWITTER">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+  <a href="mailto:neykaprograms@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </div>
