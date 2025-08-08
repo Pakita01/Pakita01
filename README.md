@@ -6,7 +6,7 @@
 ---
 
 <div align="center">
-  <p>Soy una desarrolladora web con pasión por el código limpio y el diseño intuitivo. Actualmente estoy enfocada en...</p>
+  <p>Técnica Superior Universitaria en Informática con un profundo interés en la innovación tecnológica. Mi enfoque actual se centra en el desarrollo web, donde aplico principios de código limpio y diseño intuitivo para construir experiencias de usuario eficientes y atractivas.</p>
   <br>
  
 </div>
